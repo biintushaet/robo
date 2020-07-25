@@ -31,7 +31,7 @@ export const robots = [
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
+    name: 'Mrs. Dennis S',
     username: 'Leopoldo_Corkery',
     email: 'Karley_Dach@jasper.info'
   },
@@ -51,11 +51,11 @@ export const robots = [
     id: 9,
     name: 'Glenna Reichert',
     username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io'
+    email: 'McDermott@dana.io'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
+    name: 'Clementina Buque',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
   }
